@@ -10,27 +10,34 @@
 * [Create new products or offers](products-services-and-nfts/create-new-products-or-offers.md)
 * [Add a listing to the wishlist](products-services-and-nfts/add-a-listing-to-the-wishlist.md)
 
+## SPACE Token
+
+* [Ethereum based tokens](space-token/ethereum-based-tokens.md)
+* [Finding SPACE tokens in a crypto wallet](space-token/finding-space-tokens-in-a-crypto-wallet.md)
+* [Additional information on the SPACE token](space-token/additional-information-on-the-space-token.md)
+
 ## Profile
 
 * [Editing your profile](profile/editing-your-profile.md)
 * [Changing the profile picture](profile/changing-the-profile-picture.md)
 * [Changing the cover picture](profile/changing-the-cover-picture.md)
 
-## Ratings & Reviews
+## Cryptocurrencies
 
-* [Rating an interaction with another user](ratings-and-reviews/rating-an-interaction-with-another-user.md)
+* [Selecting the default cryptocurrency on listings](cryptocurrencies/selecting-the-default-cryptocurrency-on-listings.md)
 
 ## Maps & Location
 
 * [Finding products on the map](maps-and-location/finding-products-on-the-map.md)
 * [Finding an offer at a specific location](maps-and-location/finding-an-offer-at-a-specific-location.md)
 
-## Community Safety <a id="safety"></a>
+## Chats
 
-* [No tolerance for objectionable content and/or abusive users](safety/no-tolerance-for-objectionable-content-and-or-abusive-users.md)
-* [Filtering objectionable content](safety/filtering-objectionable-content.md)
-* [Reporting objectionable content and blocking users](safety/reporting-objectionable-content-and-blocking-users.md)
-* [Suspended or terminated accounts](safety/suspended-or-terminated-accounts.md)
+* [Creating or sending a new chat](chats/creating-or-sending-a-new-chat.md)
+
+## Ratings & Reviews
+
+* [Rating an interaction with another user](ratings-and-reviews/rating-an-interaction-with-another-user.md)
 
 ## Chats
 
@@ -41,13 +48,10 @@
 * [Creating a video story](videos-and-stories/creating-a-video-story.md)
 * [Mute or stop a video story](videos-and-stories/mute-or-stop-a-video-story.md)
 
-## SPACE Token
+## Community Safety <a id="safety"></a>
 
-* [Ethereum based tokens](space-token/ethereum-based-tokens.md)
-* [Finding SPACE tokens in a crypto wallet](space-token/finding-space-tokens-in-a-crypto-wallet.md)
-* [Additional information on the SPACE token](space-token/additional-information-on-the-space-token.md)
-
-## Cryptocurrencies
-
-* [Selecting the default cryptocurrency on listings](cryptocurrencies/selecting-the-default-cryptocurrency-on-listings.md)
+* [No tolerance for objectionable content and/or abusive users](safety/no-tolerance-for-objectionable-content-and-or-abusive-users.md)
+* [Filtering objectionable content](safety/filtering-objectionable-content.md)
+* [Reporting objectionable content and blocking users](safety/reporting-objectionable-content-and-blocking-users.md)
+* [Suspended or terminated accounts](safety/suspended-or-terminated-accounts.md)
 
