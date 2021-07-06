@@ -1,18 +1,15 @@
 ---
 description: >-
-  Welcome to Spacelens help center. You can find here answers to most common
-  question, guides, tips, and additional documentation.
+  Welcome to Spacelens documentation. You can find here answers to the most
+  common questions, tips, and other relevant information on how to best use
+  Spacelens.
 ---
 
-# Help Center
+# Documentation
 
-## Can I become who I want to be?
+## Structure of the documentation
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+You can easily search for answers using the search functionality at the top of the page. This is the simplest way to find your answers.
 
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-![](.gitbook/assets/spacetokenicon.png)
+You can also find articles by clicking on the different sections. Click on any section to see relevant articles.
 
