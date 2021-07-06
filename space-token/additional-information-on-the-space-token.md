@@ -1,4 +1,4 @@
-# Additional information on the SPACE token
+# Additional information on the SPACE token.
 
 You can find information on the SPACE Token on our [SPACE token page](https://spacetoken.spacelens.com/).
 
