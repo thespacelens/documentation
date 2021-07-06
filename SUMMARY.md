@@ -12,8 +12,9 @@
 
 ## Wallet
 
-* [Sending and receiving coins and tokens](wallet/sending-and-receiving-coins-and-tokens.md)
+* [Spacewallet introduction](wallet/spacewallet-introduction.md)
 * [The crypto wallet seed phrase or private key](wallet/the-crypto-wallet-seed-phrase-or-private-key.md)
+* [Sending and receiving coins and tokens](wallet/sending-and-receiving-coins-and-tokens.md)
 * [Importing an existing blockchain wallet](wallet/importing-an-existing-blockchain-wallet.md)
 
 ## SPACE Token
