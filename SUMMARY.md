@@ -10,6 +10,12 @@
 * [Create new products or offers](products-services-and-nfts/create-new-products-or-offers.md)
 * [Add a listing to the wishlist](products-services-and-nfts/add-a-listing-to-the-wishlist.md)
 
+## Wallet
+
+* [Sending and receiving coins and tokens](wallet/sending-and-receiving-coins-and-tokens.md)
+* [The crypto wallet seed phrase or private key](wallet/the-crypto-wallet-seed-phrase-or-private-key.md)
+* [Importing an existing blockchain wallet](wallet/importing-an-existing-blockchain-wallet.md)
+
 ## SPACE Token
 
 * [Ethereum based tokens](space-token/ethereum-based-tokens.md)
