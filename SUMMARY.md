@@ -2,10 +2,6 @@
 
 * [Documentation](README.md)
 
-## Chats
-
-* [Creating or sending a new chat](chats/creating-or-sending-a-new-chat.md)
-
 ## Products, services, and NFTs
 
 * [Change or update a picture in a listing](products-services-and-nfts/change-or-update-a-picture-in-a-listing.md)
@@ -35,6 +31,10 @@
 * [Filtering objectionable content](safety/filtering-objectionable-content.md)
 * [Reporting objectionable content and blocking users](safety/reporting-objectionable-content-and-blocking-users.md)
 * [Suspended or terminated accounts](safety/suspended-or-terminated-accounts.md)
+
+## Chats
+
+* [Creating or sending a new chat](chats/creating-or-sending-a-new-chat.md)
 
 ## Videos & Stories
 
