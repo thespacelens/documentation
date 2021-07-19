@@ -21,8 +21,8 @@
 
 * [Ethereum based tokens](space-token/ethereum-based-tokens.md)
 * [Finding SPACE tokens in a crypto wallet](space-token/finding-space-tokens-in-a-crypto-wallet.md)
+* [The need for ETH balance to send SPACE tokens](space-token/need-for-eth-to-cover-space-token-transactions.md)
 * [Additional information on the SPACE token](space-token/additional-information-on-the-space-token.md)
-* [Need for ETH to cover SPACE token transactions](space-token/need-for-eth-to-cover-space-token-transactions.md)
 
 ## Profile
 
